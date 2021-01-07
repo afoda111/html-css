@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main{
+    background-color: #e8eae6;
+}
+
+h1,p{
+    text-align: center;
+
+}
+#image{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    height: auto;
+    max-width: 330px;
+}
+
+#img-div{
+    margin-left: 3%;
+    margin-right: 3%;
+
+}
+
+#content{
+    text-align: center;
+}
+ul {
+    margin-right: 45%;
+    margin-left: 45%;
+}
+ li ::marker{
+    text-align: right;
+    position: fixed;
+}
+strong{
+    float: left;
+}
+cite{
+    text-align: center;
+    margin:100px;
+}
+#link{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
